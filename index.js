@@ -9,7 +9,7 @@ const ProviderEngine = require('web3-provider-engine')
 const ProviderSubprovider = require('web3-provider-engine/subproviders/provider.js')
 const TransportU2F = require('@liquality/hw-transport-node-hid').default
 const Web3 = require('web3')
-const createLedgerSubprovider = require('@ledgerhq/web3-subprovider').default
+const createLedgerSubprovider = require('@liquality/web3-subprovider').default
 
 /**
  * Exports.
