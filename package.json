@@ -25,7 +25,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@liquality/hw-transport-node-hid": "^4.24.0",
+    "@liquality/hw-transport-node-hid": "4.24.0",
     "@ledgerhq/web3-subprovider": "^4.31.0",
     "ethereumjs-wallet": "^0.6.2",
     "web3": "^0.20.6",
